@@ -49,7 +49,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>orders-service</finalName>
+		<finalName>order-service</finalName>
 	</build>
 
 </project>
